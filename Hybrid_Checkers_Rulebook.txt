@@ -1,0 +1,40 @@
+
+Hybrid Checkers (Turkish + International Draughts) - Official Rulebook
+
+1. Game Overview:
+- Two-player strategy game combining Turkish Draughts and International Draughts.
+- Objective: Capture all opponent's pieces or block them completely.
+
+2. Equipment:
+- Board: 10x10 squares (alternating dark and light).
+- Pieces: 20 each (Black and White).
+
+3. Setup:
+- Each player places 20 pieces on their first four rows.
+- Pieces are on dark squares.
+- Bottom-left square is dark.
+
+4. Piece Types:
+- Men: Basic pieces, 1-step moves.
+- Kings: Promoted pieces, move unlimited steps.
+
+5. Movement:
+| Piece Type | Direction | Distance |
+|------------|-----------|----------|
+| Man        | Orthogonally (fwd, left, right) + Diagonally (fwd) | 1 square |
+| King       | Orthogonally and Diagonally (all) | Any distance (Flying King) |
+
+6. Capturing:
+- Mandatory to capture if possible.
+- Orthogonal & diagonal captures allowed.
+- Backward captures allowed for Men and Kings.
+- Multiple (chain) captures allowed.
+- Must choose max possible captures when available.
+
+7. Promotion to King:
+- A Man reaching the opponent's last row becomes a King.
+- Kings move any distance in straight or diagonal directions.
+
+8. Winning the Game:
+- Win by capturing all opponent pieces or blocking them completely.
+
