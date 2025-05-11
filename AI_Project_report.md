@@ -1,4 +1,4 @@
-*Project Report Template*
+*AI Project Report*
 
 *Project Title:* Hybrid Checkers (Turkish + International )
 
